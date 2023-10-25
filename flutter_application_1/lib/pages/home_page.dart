@@ -7,7 +7,7 @@ class Homepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("PTC App"),
+        title: const Text("Catalog App"),
       ),
       body: Center(
         // ignore: avoid_unnecessary_containers
