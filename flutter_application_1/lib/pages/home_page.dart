@@ -9,6 +9,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Catalog App"),
+         
       ),
       body: Center(
         // ignore: avoid_unnecessary_containers
