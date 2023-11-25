@@ -3,7 +3,7 @@
 class CatalogModel {
   static final items = [
     Item(
-        id: "Codepur001",
+        id: 1,
         name: "iPhone 12 Pro",
         desc: "Apple iPhone 12th Genration",
         price: 999,
@@ -14,7 +14,7 @@ class CatalogModel {
 }
 
 class Item {
-  final String id;
+  final num id;
   final String name;
   final String desc;
   final num price;
