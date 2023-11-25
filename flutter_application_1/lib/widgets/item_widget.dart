@@ -11,7 +11,6 @@ class ItemWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      color: Colors.deepPurple,
       child: ListTile(
         leading: Image.network(item.image),
         title: Text(
