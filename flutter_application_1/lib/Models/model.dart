@@ -8,7 +8,8 @@ class CatalogModel {
         desc: "Apple iPhone 12th Genration",
         price: 999,
         color: "#3305a",
-        image: "https://www.pngmart.com/image/217214/png/217213")
+        image:
+            "https://helios-i.mashable.com/imagery/articles/01dI2KyWQvUu61tKdr6BPTf/hero-image.fill.size_1200x1200.v1614275818.jpg")
   ];
 }
 
